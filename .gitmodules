@@ -1,3 +1,6 @@
 [submodule "thirdparty/plog"]
 	path = thirdparty/plog
 	url = https://github.com/SergiusTheBest/plog
+[submodule "thirdparty/spdlog"]
+	path = thirdparty/spdlog
+	url = https://github.com/gabime/spdlog.git
